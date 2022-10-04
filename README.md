@@ -17,7 +17,7 @@
 Для поиска российских номеров на изображении используется обученный классификатор `haarcascade_russian_plate_number.xml`. Классификатор формируется на примитивах Хаара.  
 <img src="/images/ex_number.png" width="300"/>  
 
-Распознавание производится моделью EaseOCR.
+Распознавание производится моделью EasyOCR.
 
 # Результат работы модели:  
 <img src="/images/parking.jpeg" width="400"/> <img src="/images/ex_yolo.png" width="400"/>  
