@@ -19,7 +19,7 @@
 
 Распознавание производится моделью EaseOCR.
 
-Результат работы модели:  
+# Результат работы модели:  
 <img src="/images/parking.jpeg" width="400"/> <img src="/images/ex_yolo.png" width="400"/>  
 <img src="/images/parking2.jpeg" width="400"/> <img src="/images/ex_yolo_02.png" width="400"/>  
 <img src="/images/ex_yolo_01.png" width="400"/> <img src="/images/ex_yolo_021.png" width="400"/>
